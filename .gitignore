@@ -1,0 +1,85 @@
+*.log
+.DS_Store
+.env
+.env.backup
+.env.production
+.phpactor.json
+.phpunit.result.cache
+/.fleet
+/.idea
+/.nova
+/.phpunit.cache
+/.vscode
+/.zed
+/auth.json
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+/vendor
+Homestead.json
+Homestead.yaml
+Thumbs.db
+
+
+# =========================
+# Laravel
+# =========================
+/vendor/
+/node_modules/
+
+.env
+.env.*
+!.env.example
+
+/storage/*.key
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+
+bootstrap/cache/*.php
+
+# =========================
+# Composer
+# =========================
+/composer.lock
+
+# =========================
+# Node / Vite
+# =========================
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+/public/build
+/public/hot
+
+# =========================
+# Logs & cache
+# =========================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+php_error.log
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# =========================
+# Testing
+# =========================
+.phpunit.result.cache
+
+# =========================
+# Misc
+# =========================
+*.swp
+*.bak
