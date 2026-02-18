@@ -56,8 +56,8 @@
                     <input type="text" name="usia_anak" class="form-control" placeholder="Usia Anak" required>
                 </div>
                 <div class="mb-3">
-                    <select name="area" class="form-control" required>
-                        <option value="" selected hidden>Area Terdekat</option>
+                    <select name="area" class="form-control">
+                        <option value="" selected hidden>Area Terdekat (Opsional)</option>
                         <option>BrainFit Kelapa Gading</option>
                         <option>Brainfit Kebon Jeruk</option>
                         <option>Brainfit Pantai Indah Kapuk</option>
