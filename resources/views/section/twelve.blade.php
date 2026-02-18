@@ -20,7 +20,7 @@
                     <div class="benefit-item"><span class="items">Info Program Brain Training</span></div>
                 </div>
                 <!-- Lingkaran Gratis -->
-                <div class="gratis-circle">GRATIS
+                <div class="gratis-circle">GRATS
                     <!-- Gambar zoom.png di kiri atas -->
                     <img src="{{ asset('img/section12/zoom.png') }}" alt="Zoom" class="zoom-image">
                 </div>
