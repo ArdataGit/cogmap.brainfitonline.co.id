@@ -17,7 +17,7 @@ class InformationSessionController extends Controller
                 'email'           => 'required|email',
                 'nama_anak'       => 'required|string|max:100',
                 'usia_anak'       => 'required|string|max:10',
-                'area'            => 'required|string|max:50',
+                'area'            => 'nullable|string|max:50',
             ]);
 
             $data = [
